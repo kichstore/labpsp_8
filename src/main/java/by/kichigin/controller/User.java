@@ -1,4 +1,4 @@
-package by.herman.controller;
+package by.kichigin.controller;
 
 public class User {
     private long user_id;
